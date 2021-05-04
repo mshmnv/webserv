@@ -11,4 +11,4 @@ To test
 make test
 ```
 
-![Screenshot](/img/page.png)
+![Screenshot](/content/page.png)
