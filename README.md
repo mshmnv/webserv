@@ -11,4 +11,4 @@ To test
 make test
 ```
 
-![Pages](content/pages.mov)
+![Screenshot](/img/page.png)
