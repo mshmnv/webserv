@@ -1,5 +1,5 @@
 # webserv
-### HTTP server (rfc 7230 to 7235)
+### *HTTP server (rfc 7230 to 7235)
 
 Usage
 ```
