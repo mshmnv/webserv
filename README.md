@@ -1,5 +1,6 @@
 # webserv
 *HTTP server (rfc 7230 to 7235)*
+methods: GET | HEAD | POST | PUT
 
 Usage
 ```
