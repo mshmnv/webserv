@@ -14,3 +14,9 @@ make test
 ```
 
 ![Screenshot](/content/page.png)
+
+
+## authors
+- [mshmnv](https://github.com/mshmnv)
+- [Sonovrik](https://github.com/Sonovrik)
+- [Bulina08](https://github.com/Bulina08)
